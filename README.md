@@ -196,11 +196,11 @@ Buttons connected between a **digital pin** and **GND**. The project uses built-
 
 This project was inspired by the Tic-Tac-Toe AI assignment from Harvard’s **CS50 Artificial Intelligence** course.  
 
-Special thanks to the CS50 AI team for the fundamental algorithmic ideas:➡️ 
-https://cs50.harvard.edu/ai/projects/0/tictactoe/
-https://cs50.harvard.edu/ai/notes/0/
+Special thanks to the CS50 AI team for the fundamental algorithmic ideas:
 
----
-**Built with ❤️ by makers and embbeded AI enthusiasts.**
+➡️ https://cs50.harvard.edu/ai/projects/0/tictactoe/
+
+➡️ https://cs50.harvard.edu/ai/notes/0/
+
 
 
